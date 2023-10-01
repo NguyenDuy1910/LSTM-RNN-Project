@@ -1,0 +1,4 @@
+label
+{SCREEN#Positive};{FEATURES#Positive};{PERFORMANCE#Positive};{GENERAL#Positive};
+{FEATURES#Negative};{PERFORMANCE#Positive};{SER&ACC#Positive};{OTHERS};
+{DESIGN#Neutral};{SER&ACC#Positive};
